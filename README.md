@@ -109,6 +109,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
+- [dext](https://github.com/lucacasonato/dext.ts) - The Preact Framework for Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
